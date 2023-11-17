@@ -22,3 +22,5 @@ python Tokenization_and_FeatureExtraction.py
 python classification.py
 ```
 
+## Collinearity of Features
+
