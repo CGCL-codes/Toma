@@ -24,3 +24,4 @@ python classification.py
 
 ## Collinearity of Features
 
+![Image text](https://github.com/TomaCodes/Toma/blob/main/collinearity.jpg)
