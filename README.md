@@ -28,13 +28,13 @@ python classification.py
 
 
 # Publication
-Siyue Feng, Wenqi Suo, Yueming Wu, Deqing Zou, Yang Liu, and Hai Jin. 2024. Machine Learning is All You Need: A Simple Token-based Approach for Effective Code Clone Detection. In 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’24), April 14–20, 2024, Lisbon, Portugal. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3597503.3639114
+Siyue Feng, Wenqi Suo, Yueming Wu, Deqing Zou, Yang Liu, and Hai Jin. 2024. Machine Learning is All You Need: A Simple Token-based Approach for Effective Code Clone Detection. In 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’24), April 14–20, 2024, Lisbon, Portugal. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3597503.3639114
 
 If you use our dataset or source code, please kindly cite our paper:
 ```
-@INPROCEEDINGS{tritor2023,
+@INPROCEEDINGS{toma2024,
   author={Feng, Siyue and Suo, Wenqi and Wu, Yueming and Zou, Deqing and Liu, Yang and Jin, Hai},
-  booktitle={2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’24)}, 
+  booktitle={2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’24)}, 
   title={Machine Learning is All You Need: A Simple Token-based Approach for Effective Code Clone Detection}, 
   year={2024},
   doi={10.1145/3597503.3639114}}
