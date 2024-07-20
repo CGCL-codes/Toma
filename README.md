@@ -22,6 +22,17 @@ python Tokenization_and_FeatureExtraction.py
 python classification.py
 ```
 
+## Dataset
+
+- The zip id2sourcecode of the dataset folder (https://github.com/CGCL-codes/Toma/tree/main/dataset) can be unzipped to get the Java function files in the BCB dataset. 
+
+- type1-type5 CSV files correspond to Type-1, Type-2, Strongly Type-3, Moderately Type-3, Weakly Type-3/Type-4, which are described in the dataset section of the paper.
+
+- clone.csv is a collection of clone pairs for the 5 clone types and nonclone.csv is a collection of all non-clone pairs. 
+
+- For all CSV files you only need to focus on the first two columns, i.e. the two function ids of the code pairs (clone pairs or non-clone pairs), according to which you can find the corresponding Java functions in the id2sourcecode folder.
+
+
 ## Collinearity of Features
 
 ![Image text](https://github.com/TomaCodes/Toma/blob/main/collinearity.jpg)
